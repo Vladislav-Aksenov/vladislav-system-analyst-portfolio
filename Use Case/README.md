@@ -96,7 +96,7 @@ The **View Notification** use case extends **Receive Motivational Notifications*
 
 ## Diagram Preview
 
-![Quit Smoking Use Case Diagram](Quit_Smoking_Use_Case_Diagram.png)
+![Quit Smoking Use Case Diagram](Quit_Smoking_Application_Use_Case_Diagram.png)
 
 
 
